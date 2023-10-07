@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhamoykolya08
 - 👀 I’m interested in ...programmnig languages,drawing
-- 🌱 I’m currently learning ...BCA
+- 🌱 I’m currently pursuing ...MCA
 - 💞️ I’m looking to collaborate on ...internship
 - 📫 How to reach me ... subhamoykolya@gmail.com
 
